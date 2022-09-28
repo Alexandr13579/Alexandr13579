@@ -1,3 +1,4 @@
+![banner (1)](https://user-images.githubusercontent.com/108469148/192815381-d1111064-0931-4fd2-8eec-09f51560f332.png)
 
 
 ### Мой стек технологий
@@ -12,4 +13,4 @@
 <a href="https://t.me/Oleks135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" color="26A5E4" height="30" width="40" /></a>
 </p>
 
-[![MasterHead](your image link)](Alexandr13579)
+
