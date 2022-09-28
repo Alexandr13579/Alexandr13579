@@ -1,5 +1,4 @@
-![banner (1)](https://user-images.githubusercontent.com/108469148/192815381-d1111064-0931-4fd2-8eec-09f51560f332.png)
-
+###Hi, my name is Alexandr
 
 ### Мой стек технологий
 
